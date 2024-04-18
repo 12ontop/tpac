@@ -112,7 +112,6 @@ int sig;
 /*
  * Main routine
  * 
- * (C) Copyright Market Arts Software 1993
  */
 
 main(argc, argv)
